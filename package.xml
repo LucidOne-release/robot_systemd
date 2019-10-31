@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>robot_systemd</name>
-  <version>0.1.1</version>
+  <version>0.1.2</version>
   <description>Systemd Robot Initialization</description>
   <maintainer email="code@hxr.io">HXR</maintainer>
   <license>MIT</license>
@@ -45,7 +45,7 @@
   <buildtool_depend>catkin</buildtool_depend>
   <exec_depend>roslaunch</exec_depend>
 
-  <conflict>ros-melodic-robot-systemd</conflict>
+  <!-- <conflict>ros-melodic-robot-systemd</conflict> -->
 
   <!-- The export tag contains other, unspecified, tags -->
   <export>
