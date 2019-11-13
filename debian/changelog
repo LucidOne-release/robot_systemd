@@ -1,0 +1,23 @@
+ros-melodic-robot-systemd (0.1.2-1bionic) bionic; urgency=high
+
+  * Removed pre-emptive conflict
+  * Added TasksMax=infinity
+  * Added KillSignal=SIGINT
+  * Added documentation
+
+ -- HXR <code@hxr.io>  Wed, 30 Oct 2019 04:00:00 -0000
+
+ros-melodic-robot-systemd (0.1.1-1bionic) bionic; urgency=high
+
+  * Added env-hook for environment
+  * Added documentation
+
+ -- HXR <code@hxr.io>  Tue, 29 Oct 2019 04:00:00 -0000
+
+ros-melodic-robot-systemd (0.1.0-1bionic) bionic; urgency=high
+
+  * Initial Release
+
+ -- HXR <code@hxr.io>  Tue, 29 Oct 2019 04:00:00 -0000
+
+
